@@ -1,7 +1,7 @@
 # dash_app
 A collection of simple python dash apps
 
-run the app locally: in terminal ```python app_gapminder.py```
+To run the app locally, go to terminal and type ```python app_gapminder.py```. To close the session, run ```ctrl+c```
 
 List of Apps..
 
